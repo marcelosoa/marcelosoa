@@ -1,4 +1,4 @@
-### Olá, Me chamo Marcelo Soares 👨🏿‍💻
+### Hello, my name is Marcelo Soares 👨🏿‍💻
 
 
 ### I am a 26 year old Front-End developer currently focused on Mobile development with the Flutter framework.
